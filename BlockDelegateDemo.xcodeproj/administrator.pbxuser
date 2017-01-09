@@ -1,0 +1,159 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* BlockDelegateDemo */ = {
+		activeExec = 0;
+		executables = (
+			C3ACCF1C1E23A18B007EE925 /* BlockDelegateDemo */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C3ACCF1C1E23A18B007EE925 /* BlockDelegateDemo */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* BlockDelegateDemo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* BlockDelegateDemo */,
+		);
+		codeSenseManager = C3ACCF2D1E23A19C007EE925 /* Code sense */;
+		executables = (
+			C3ACCF1C1E23A18B007EE925 /* BlockDelegateDemo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					264,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					224,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 505651699;
+			PBXWorkspaceStateSaveDate = 505651699;
+		};
+		perUserProjectItems = {
+			C3ACCF321E23A1EA007EE925 /* PBXTextBookmark */ = C3ACCF321E23A1EA007EE925 /* PBXTextBookmark */;
+			C3ACCF341E23A1EA007EE925 /* PlistBookmark */ = C3ACCF341E23A1EA007EE925 /* PlistBookmark */;
+			C3ACCF451E23A208007EE925 /* PlistBookmark */ = C3ACCF451E23A208007EE925 /* PlistBookmark */;
+		};
+		sourceControlManager = C3ACCF2C1E23A19C007EE925 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C3ACCF1C1E23A18B007EE925 /* BlockDelegateDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BlockDelegateDemo;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C3ACCF271E23A19C007EE925 /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {442, 235}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 242}";
+		};
+	};
+	C3ACCF2C1E23A19C007EE925 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C3ACCF2D1E23A19C007EE925 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C3ACCF321E23A1EA007EE925 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C3ACCF271E23A19C007EE925 /* MainViewController.h */;
+		name = "MainViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 242;
+		vrLoc = 0;
+	};
+	C3ACCF341E23A1EA007EE925 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* BlockDelegateDemo-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			"NSMainNibFile~ipad",
+		);
+		name = "/Users/administrator/Documents/BlockDelegateDemo/BlockDelegateDemo-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	C3ACCF451E23A208007EE925 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* BlockDelegateDemo-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			"NSMainNibFile~ipad",
+		);
+		name = "/Users/administrator/Documents/BlockDelegateDemo/BlockDelegateDemo-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}
